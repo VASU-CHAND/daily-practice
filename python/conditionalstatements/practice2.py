@@ -12,4 +12,3 @@ else:
     print('number3 is greatest')
 
     
-    
